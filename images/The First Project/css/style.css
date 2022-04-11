@@ -1,0 +1,302 @@
+header {
+  background-color: white;
+  padding-top: 20px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar .navbar-brand {
+  color: black;
+  font-weight: bold;
+}
+
+.navbar .nav-item {
+  padding-left: 30px;
+}
+
+.navbar .but {
+  color: #111111;
+  border-radius: 0px;
+  padding-left: 60px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navbar button {
+  border: 2px solid #D1D1D1;
+  padding: 5px 20px;
+  background-color: #ffffff;
+}
+
+.hiro-section {
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.hiro-section .hiro {
+  margin-top: 60px;
+}
+
+.hiro-section .hiro h1 {
+  font-weight: bold;
+}
+
+.WHY-CRM {
+  background-color: #F3F4F7;
+  padding: 60px;
+}
+
+.WHY-CRM .headline {
+  text-align: center;
+}
+
+.WHY-CRM .headline p {
+  color: #0058FF;
+}
+
+.WHY-CRM .headline h1 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.WHY-CRM h2 {
+  color: #0058FF;
+}
+
+.WHY-CRM .img1 {
+  margin-top: 100px;
+  padding: 65px 20px;
+  background-color: #111111;
+}
+
+.WHY-CRM .img2 {
+  margin-top: 50px;
+  padding: 50px 20px;
+  background-color: #FFFFFF;
+}
+
+.WHY-CRM .img3 {
+  margin-top: 100px;
+  padding: 39px 20px;
+  background-color: #FFFFFF;
+}
+
+.WHY-CRM .img4 {
+  margin-top: 50px;
+  padding: 18px 20px;
+  background-color: #FFFFFF;
+}
+
+.WHY-CRM .img1 p {
+  color: #FFFFFF;
+}
+
+.WHY-CRM .itmes p {
+  font-size: 10px;
+}
+
+.About-us {
+  background-color: #0058FF;
+  padding-top: 50px;
+}
+
+.About-us h1 {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.About-us p {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.About-us button {
+  margin-top: 20px;
+}
+
+.future {
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.future h6 {
+  color: #0058FF;
+  font-size: 13px;
+}
+
+.future h2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.future button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.future p {
+  font-size: 12px;
+}
+
+.future .analysis {
+  border: 2px solid white;
+  padding: 22px 1px 26px;
+  border-radius: 57px;
+  width: 103px;
+  font-size: 10px;
+  background-color: #0058FF;
+  margin-bottom: 20px;
+}
+
+.future .scheduling {
+  border: 2px solid white;
+  padding: 22px 1px 34px;
+  border-radius: 57px;
+  width: 99px;
+  font-size: 11px;
+  margin-bottom: 20px;
+}
+
+.future .checklists {
+  border: 2px solid white;
+  padding: 22px 1px 34px;
+  border-radius: 57px;
+  width: 99px;
+  font-size: 10px;
+}
+
+.future .jessica-brettell {
+  padding-top: 100px;
+  margin-right: 50px;
+}
+
+.support {
+  background-color: #F3F4F7;
+  padding: 60px;
+}
+
+.support h6 {
+  color: #0058FF;
+  font-size: 12px;
+}
+
+.support h2 {
+  color: #111111;
+}
+
+.support .Toledano {
+  margin-top: 40px;
+  padding: 20px 40px 40px 40px;
+  background-color: #111111;
+}
+
+.support .Toledano h2 {
+  color: #0058FF;
+}
+
+.support .Toledano p {
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+.support .Movement {
+  margin-top: 40px;
+  padding: 20px 40px 7px 40px;
+  background-color: #FFFFFF;
+}
+
+.support .Movement h2 {
+  color: #0058FF;
+}
+
+.support .Movement p {
+  font-size: 14px;
+}
+
+.support img {
+  padding-top: 20px;
+}
+
+.position-img h2 {
+  text-align: center;
+  padding: 50px;
+}
+
+.position-img .Solutions {
+  background-color: #F3F4F7;
+  padding: 60px;
+}
+
+.position-img .Solutions h3 {
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.position-img .Solutions span {
+  font-weight: bold;
+  font-size: 45px;
+  font-family: fantasy;
+}
+
+.position-img .Solutions h2 {
+  color: #0058FF;
+  margin-right: 10px;
+  padding-left: 30px;
+}
+
+.position-img .buying {
+  background-color: #FFFFFF;
+}
+
+.position-img .contact {
+  background-color: #111111;
+}
+
+.position-img .contact p {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #FFFFFF;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.position-img ul {
+  padding-left: 0rem;
+}
+
+.position-img ul li {
+  display: inline;
+}
+
+.position-img .log-in {
+  padding-top: 50px;
+}
+
+.position-img .log-in h2 {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.position-img .log-in .icons {
+  padding-top: 5px;
+  padding-right: 0px;
+}
+
+.position-img .Copyrights {
+  padding-top: 70px;
+  padding-bottom: 50p;
+}
+
+.position-img .Copyrights ul li {
+  display: inline;
+  padding-right: 150px;
+  text-align: start;
+}
+/*# sourceMappingURL=style.css.map */

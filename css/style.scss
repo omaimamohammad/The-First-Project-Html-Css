@@ -1,0 +1,379 @@
+$blue-100:#D1D1D1;
+$light:#ffffff;
+$primary:#0058FF;
+$dark:#111111;
+header{
+    background-color: $light;
+    padding-top: 20px;
+}
+.navbar{
+    background-color:$light;
+    .navbar-collapse{
+     // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { margin-left: -40px; }
+
+
+@media (min-width: 200px) and (max-width: 576px) { margin-left: -31px; }
+
+    }
+    
+    .navbar-brand{
+        color:$dark;
+        font-weight: bold;
+        padding-right: 80px;
+}
+
+    .nav-item{
+        padding-left: 30px;
+        // Small devices (landscape phones, 576px and up)
+        @media (max-width: 575.98px) { padding-right: 0px; }      }
+
+   
+
+         .log{
+            padding-right: 50px;
+            margin-left: 120px;
+            margin-top: 10px;
+              @media (max-width: 991.98px) {
+        
+                margin-left: 0px;
+           
+        }
+        }
+        button{
+            border: 2px solid $blue-100;
+                padding: 7px 21px; 
+                 background-color: $light;
+                 font-weight:bold;
+                 font-size: 12px;
+                 margin-top: 8px;
+   }   }
+
+.hiro-section{
+   
+    margin-top: 70px;
+    margin-bottom: 30px;
+    @media (min-width: 200px) and (max-width:  576px) {
+        margin-top:-50px;
+    }
+   
+    .hiro{
+    margin-top: 60px;
+    h1{
+        font-weight: bold;
+    }
+}
+.img-fluid{
+    @media (min-width: 200px) and (max-width:  576px) {
+        margin-left: -87px;
+         }
+        // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+    margin-left: 1px;
+ }
+}
+.h{
+    @media (min-width: 200px) and (max-width:  576px) {
+        margin-left: -90px;
+    margin-top: 150px;
+         }
+}   
+}
+.WHY-CRM{
+    background-color: #F3F4F7;
+   padding: 60px;
+    .headline{
+        text-align: center;
+        p{
+            color: $primary;
+        }
+        h1{
+            font-size: 15px;
+            font-weight: bold;
+        }
+    }
+h2{
+    color: $primary;
+}
+.img1{
+    margin-top:100px;
+    padding: 65px 20px;
+    background-color: $dark;
+@media (max-width: 768px) { 
+    margin-top: 10px;
+    padding: 50px 20px;
+ }
+ @media (min-width: 768px)and(max-width: 992px){
+    margin-top: 50px;
+    padding: 107px 20px;
+ }
+}
+.img2{
+    margin-top: 50px;
+    padding: 50px 20px;
+    background-color: $light;
+    @media (max-width: 576px) {
+        margin-top:10px;
+    }
+    @media (min-width: 576px)and(max-width: 768px) { 
+        margin-top: 10px;
+        padding: 50px 20px;
+     }
+     @media (min-width: 768px)and(max-width: 992px){
+        margin-top: 50px;
+        padding: 89px 20px;
+     }
+}
+.img3{
+    margin-top:100px;
+    padding: 39px 20px;
+    background-color: $light;
+     @media (max-width: 768px) { 
+        margin-top: 10px;
+        padding: 50px 20px;
+     }
+     @media (min-width: 768px)and(max-width: 992px){
+        margin-top: 50px;
+        padding: 74px 20px;
+     }
+}
+.img4{
+    margin-top: 50px;
+    padding: 18px 20px;
+    background-color:$light;
+    @media (max-width: 768px) { 
+        margin-top: 10px;
+        padding: 50px 20px;
+     }
+     @media (min-width: 768px)and(max-width: 992px){
+        margin-top: 50px;
+        padding: 30px 20px;
+     }
+}
+.img1 p{
+    color: $light;
+}
+.itmes p{
+    font-size: 10px;
+}
+}
+.About-us{
+    background-color: $primary;
+    padding-top: 50px;
+    h1{
+        font-weight: bold;
+        color: $light;
+        font-size: 30px;
+    }
+p{
+    font-size: 15px;
+    color: $light;
+}
+button{
+    margin-top: 20px;
+}
+}
+
+
+.future{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    h6{
+       color: $primary;
+       font-size: 13px;
+        // `sm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width:991.98px) {
+    font-size: 20px;
+ }
+   }
+   h2{
+     font-weight: bold;
+     font-size: 20px; 
+    margin-bottom: 40px;
+   }
+   button{
+       display:flex;
+        // `sm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width:991.98px) {
+    margin: auto;
+ }
+   }
+   p{
+       font-size: 12px;
+   } 
+   .analysis{ 
+    border: 2px solid $light;
+    padding: 22px 1px 26px;
+    border-radius: 50px;
+    width: 103px;
+    font-size: 12px;
+    background-color: $primary;
+    margin-bottom: 20px; 
+ }
+ .scheduling{
+    border: 2px solid $light;
+    padding: 22px 1px 34px;
+    border-radius: 48px;
+    width: 105px;
+    font-size: 12px;
+    margin-bottom: 20px;
+ }
+ .checklists{
+    border: 2px solid $light;
+    padding: 22px 1px 34px;
+    border-radius: 53px;
+    width: 113px;
+    font-size: 12px;
+ }  
+ .jessica-brettell{
+     padding-top: 100px;
+     margin-right:50px;
+      // `sm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width:991.98px) {
+    padding-top: 50px;
+}
+     p{
+          // `sm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width:991.98px) {
+    font-size: 15px;
+}
+
+     }
+ }
+   }
+   .support{
+background-color: #F3F4F7;
+padding: 60px;
+   h6{
+       color: $primary;
+font-size: 12px;
+   }
+
+   h2{
+color: $dark;
+   }
+   .Toledano{
+margin-top: 40px;
+padding: 20px 40px 40px 40px;
+background-color: $dark;
+h2{
+color: $primary;
+}
+p{
+    color: $light;
+    font-size: 15px;
+}
+   }
+ .Movement{
+margin-top: 40px;
+padding: 20px 40px 7px 40px;
+background-color: $light;
+h2{
+    color: $primary;
+}
+p{
+    font-size: 14px;
+}
+ 
+ img{
+     padding-top: 20px;
+ }
+}
+ }
+.position-img{
+    h2{
+         text-align: center;
+         padding: 50px;
+     }
+     img{
+         width: 130px;
+     }  
+}
+   
+ 
+   
+    .Solutions{
+        background-color: #F3F4F7;
+        padding: 60px;
+   
+    h3{
+        font-weight: bold;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    span{
+        font-weight: bold;
+        font-size: 30px;
+        font-family: fantasy;
+        padding-right: 0px;
+    }
+    
+    h2{
+        color: $primary;
+        }
+    .buying{
+        padding: 20px 30px;
+        .buying-item{
+            margin-right:10px;
+        background-color: $light;
+        span{
+            padding-left: 50px;
+            br{
+                padding-left: 50px; 
+            }
+        }
+        }
+    } 
+}
+
+    .contact{
+        background-color: $dark;
+        
+   
+        p{
+            text-align: center;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            color: $light;
+            font-size: 30px;
+            font-weight: bold;
+        } 
+    } 
+
+   
+               
+        
+
+       .log-in{
+       padding-top: 50px;
+       h2{
+           font-weight: bold;
+           font-size: 35px;
+       }
+       ul{
+           padding-left: 4px;
+           li{
+               display: inline;
+            list-style: none;
+            padding-right: 10px;
+
+           }
+       }
+      
+   } 
+
+   .Copyrights{
+       padding-top: 70px;
+       padding-bottom: 20px;
+       ul{
+        li{
+         
+            display:inline;
+            padding-right: 20px;
+        }
+       
+       
+
+    }
+    
+    }

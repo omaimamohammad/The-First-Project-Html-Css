@@ -1,0 +1,451 @@
+header {
+  background-color: #ffffff;
+  padding-top: 20px;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+@media (min-width: 576px) {
+  .navbar .navbar-collapse {
+    margin-left: -40px;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 576px) {
+  .navbar .navbar-collapse {
+    margin-left: -31px;
+  }
+}
+
+.navbar .navbar-brand {
+  color: #111111;
+  font-weight: bold;
+  padding-right: 80px;
+}
+
+.navbar .nav-item {
+  padding-left: 30px;
+}
+
+@media (max-width: 575.98px) {
+  .navbar .nav-item {
+    padding-right: 0px;
+  }
+}
+
+.navbar .log {
+  padding-right: 50px;
+  margin-left: 120px;
+  margin-top: 10px;
+}
+
+@media (max-width: 991.98px) {
+  .navbar .log {
+    margin-left: 0px;
+  }
+}
+
+.navbar button {
+  border: 2px solid #D1D1D1;
+  padding: 7px 21px;
+  background-color: #ffffff;
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+.hiro-section {
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+@media (min-width: 200px) and (max-width: 576px) {
+  .hiro-section {
+    margin-top: -50px;
+  }
+}
+
+.hiro-section .hiro {
+  margin-top: 60px;
+}
+
+.hiro-section .hiro h1 {
+  font-weight: bold;
+}
+
+@media (min-width: 200px) and (max-width: 576px) {
+  .hiro-section .img-fluid {
+    margin-left: -87px;
+  }
+}
+
+@media (min-width: 576px) {
+  .hiro-section .img-fluid {
+    margin-left: 1px;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 576px) {
+  .hiro-section .h {
+    margin-left: -90px;
+    margin-top: 150px;
+  }
+}
+
+.WHY-CRM {
+  background-color: #F3F4F7;
+  padding: 60px;
+}
+
+.WHY-CRM .headline {
+  text-align: center;
+}
+
+.WHY-CRM .headline p {
+  color: #0058FF;
+}
+
+.WHY-CRM .headline h1 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.WHY-CRM h2 {
+  color: #0058FF;
+}
+
+.WHY-CRM .img1 {
+  margin-top: 100px;
+  padding: 65px 20px;
+  background-color: #111111;
+}
+
+@media (max-width: 768px) {
+  .WHY-CRM .img1 {
+    margin-top: 10px;
+    padding: 50px 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .WHY-CRM .img1 {
+    margin-top: 50px;
+    padding: 107px 20px;
+  }
+}
+
+.WHY-CRM .img2 {
+  margin-top: 50px;
+  padding: 50px 20px;
+  background-color: #ffffff;
+}
+
+@media (max-width: 576px) {
+  .WHY-CRM .img2 {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .WHY-CRM .img2 {
+    margin-top: 10px;
+    padding: 50px 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .WHY-CRM .img2 {
+    margin-top: 50px;
+    padding: 89px 20px;
+  }
+}
+
+.WHY-CRM .img3 {
+  margin-top: 100px;
+  padding: 39px 20px;
+  background-color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .WHY-CRM .img3 {
+    margin-top: 10px;
+    padding: 50px 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .WHY-CRM .img3 {
+    margin-top: 50px;
+    padding: 74px 20px;
+  }
+}
+
+.WHY-CRM .img4 {
+  margin-top: 50px;
+  padding: 18px 20px;
+  background-color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .WHY-CRM .img4 {
+    margin-top: 10px;
+    padding: 50px 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .WHY-CRM .img4 {
+    margin-top: 50px;
+    padding: 30px 20px;
+  }
+}
+
+.WHY-CRM .img1 p {
+  color: #ffffff;
+}
+
+.WHY-CRM .itmes p {
+  font-size: 10px;
+}
+
+.About-us {
+  background-color: #0058FF;
+  padding-top: 50px;
+}
+
+.About-us h1 {
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.About-us p {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.About-us button {
+  margin-top: 20px;
+}
+
+.future {
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.future h6 {
+  color: #0058FF;
+  font-size: 13px;
+}
+
+@media (max-width: 991.98px) {
+  .future h6 {
+    font-size: 20px;
+  }
+}
+
+.future h2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.future button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+@media (max-width: 991.98px) {
+  .future button {
+    margin: auto;
+  }
+}
+
+.future p {
+  font-size: 12px;
+}
+
+.future .analysis {
+  border: 2px solid #ffffff;
+  padding: 22px 1px 26px;
+  border-radius: 50px;
+  width: 103px;
+  font-size: 12px;
+  background-color: #0058FF;
+  margin-bottom: 20px;
+}
+
+.future .scheduling {
+  border: 2px solid #ffffff;
+  padding: 22px 1px 34px;
+  border-radius: 48px;
+  width: 105px;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.future .checklists {
+  border: 2px solid #ffffff;
+  padding: 22px 1px 34px;
+  border-radius: 53px;
+  width: 113px;
+  font-size: 12px;
+}
+
+.future .jessica-brettell {
+  padding-top: 100px;
+  margin-right: 50px;
+}
+
+@media (max-width: 991.98px) {
+  .future .jessica-brettell {
+    padding-top: 50px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .future .jessica-brettell p {
+    font-size: 15px;
+  }
+}
+
+.support {
+  background-color: #F3F4F7;
+  padding: 60px;
+}
+
+.support h6 {
+  color: #0058FF;
+  font-size: 12px;
+}
+
+.support h2 {
+  color: #111111;
+}
+
+.support .Toledano {
+  margin-top: 40px;
+  padding: 20px 40px 40px 40px;
+  background-color: #111111;
+}
+
+.support .Toledano h2 {
+  color: #0058FF;
+}
+
+.support .Toledano p {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.support .Movement {
+  margin-top: 40px;
+  padding: 20px 40px 7px 40px;
+  background-color: #ffffff;
+}
+
+.support .Movement h2 {
+  color: #0058FF;
+}
+
+.support .Movement p {
+  font-size: 14px;
+}
+
+.support .Movement img {
+  padding-top: 20px;
+}
+
+.position-img h2 {
+  text-align: center;
+  padding: 50px;
+}
+
+.position-img img {
+  width: 130px;
+}
+
+.Solutions {
+  background-color: #F3F4F7;
+  padding: 60px;
+}
+
+.Solutions h3 {
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.Solutions span {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: fantasy;
+  padding-right: 0px;
+}
+
+.Solutions h2 {
+  color: #0058FF;
+}
+
+.Solutions .buying {
+  padding: 20px 30px;
+}
+
+.Solutions .buying .buying-item {
+  margin-right: 10px;
+  background-color: #ffffff;
+}
+
+.Solutions .buying .buying-item span {
+  padding-left: 50px;
+}
+
+.Solutions .buying .buying-item span br {
+  padding-left: 50px;
+}
+
+.contact {
+  background-color: #111111;
+}
+
+.contact p {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.log-in {
+  padding-top: 50px;
+}
+
+.log-in h2 {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.log-in ul {
+  padding-left: 4px;
+}
+
+.log-in ul li {
+  display: inline;
+  list-style: none;
+  padding-right: 10px;
+}
+
+.Copyrights {
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.Copyrights ul li {
+  display: inline;
+  padding-right: 20px;
+}
+/*# sourceMappingURL=style.css.map */
